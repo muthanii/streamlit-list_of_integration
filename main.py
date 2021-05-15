@@ -4,7 +4,7 @@ import streamlit as st
 data = Data()
 
 st.title("List of Integrals")
-st.subheader("Source: https://en.wikipedia.org/wiki/Lists_of_integrals#Integrals_of_simple_functions")
+st.subheader("Source: https://bit.ly/3hsSzAI")
 
 option = st.selectbox("", data.options)
 
